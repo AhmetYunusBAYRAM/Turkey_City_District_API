@@ -1,4 +1,4 @@
-# Turkish_City_District_API
+# Turkey_City_District_API
 
 City List
 http://localhost:8000/city
